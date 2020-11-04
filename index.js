@@ -1,4 +1,4 @@
-const URL="https://leperal-cpf-backspringboot.herokuapp.com"
+const URL="https://leperal-cpf-backspringboot.herokuapp.com/validacpf?cpf="
 //const URL="https://leperalvalidar-cpf-front-js-va.herokuapp.com/validarcpf?cpf="
 function validar(){
 
