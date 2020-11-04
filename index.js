@@ -1,5 +1,5 @@
-// const URL="https://java-api-spring-bot.herokuapp.com/validacpf?cpf="
-const URL="https://leperalvalidar-cpf-front-js-va.herokuapp.com/validarcpf?cpf="
+const URL="https://java-api-spring-bot.herokuapp.com/validacpf?cpf="
+//const URL="https://leperalvalidar-cpf-front-js-va.herokuapp.com/validarcpf?cpf="
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
